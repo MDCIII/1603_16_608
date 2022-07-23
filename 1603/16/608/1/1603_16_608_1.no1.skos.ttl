@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:608()>
     a skos:Collection ;
@@ -22,7 +21,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Ilocos Region"@eng-Latn ,
         "Region I"@eng-Latn ;
-    wdata:q7200235 "PH010000000" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -60,7 +58,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Northern Mindanao"@eng-Latn ,
         "Region X"@eng-Latn ;
-    wdata:q7200235 "PH100000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:110000000>
@@ -71,7 +68,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Davao Region"@eng-Latn ,
         "Region XI"@eng-Latn ;
-    wdata:q7200235 "PH110000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:120000000>
@@ -82,7 +78,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Region XII"@eng-Latn ,
         "Soccsksargen"@eng-Latn ;
-    wdata:q7200235 "PH120000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:130000000>
@@ -93,7 +88,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "NCR"@eng-Latn ,
         "National Capital Region"@eng-Latn ;
-    wdata:q7200235 "PH130000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:140000000>
@@ -104,7 +98,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "CAR"@eng-Latn ,
         "Cordillera Administrative Region"@eng-Latn ;
-    wdata:q7200235 "PH140000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:150000000>
@@ -115,7 +108,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ARMM"@eng-Latn ,
         "Autonomous Region in Muslim Mindanao"@eng-Latn ;
-    wdata:q7200235 "PH150000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:160000000>
@@ -126,7 +118,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Caraga"@eng-Latn ,
         "Region XIII"@eng-Latn ;
-    wdata:q7200235 "PH160000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:170000000>
@@ -137,7 +128,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mimaropa"@eng-Latn ,
         "Region IV-B"@eng-Latn ;
-    wdata:q7200235 "PH170000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:20000000>
@@ -148,7 +138,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Cagayan Valley"@eng-Latn ,
         "Region II"@eng-Latn ;
-    wdata:q7200235 "PH020000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:30000000>
@@ -159,7 +148,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Central Luzon"@eng-Latn ,
         "Region III"@eng-Latn ;
-    wdata:q7200235 "PH030000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:40000000>
@@ -170,7 +158,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Calabarzon"@eng-Latn ,
         "Region IV-A"@eng-Latn ;
-    wdata:q7200235 "PH040000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:50000000>
@@ -181,7 +168,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Bicol Region"@eng-Latn ,
         "Region V"@eng-Latn ;
-    wdata:q7200235 "PH050000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:60000000>
@@ -192,7 +178,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Region VI"@eng-Latn ,
         "Western Visayas"@eng-Latn ;
-    wdata:q7200235 "PH060000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:70000000>
@@ -203,7 +188,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Central Visayas"@eng-Latn ,
         "Region VII"@eng-Latn ;
-    wdata:q7200235 "PH070000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:80000000>
@@ -214,7 +198,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Eastern Visayas"@eng-Latn ,
         "Region VIII"@eng-Latn ;
-    wdata:q7200235 "PH080000000" ;
 .
 
 <urn:mdciii:1603:16:608:1:90000000>
@@ -225,6 +208,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Region IX"@eng-Latn ,
         "Zamboanga Peninsula"@eng-Latn ;
-    wdata:q7200235 "PH090000000" ;
 .
 
